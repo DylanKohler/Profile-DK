@@ -1,0 +1,89 @@
+h1 {
+  color: #ba181b;
+	font-size: 40px;
+	font-family: Palatino;
+}
+h2 {
+  color: black;
+	font-size: 15px;
+	font-family: copperlate;
+}
+h3 {
+  color: #BEDFF7;
+	font-size: 23px;
+	font-family: palatino;
+}
+h4 {
+  color: #BEDFF7;
+	font-size: 23px;
+	font-family: palatino;
+}
+h5 {
+  color: #BEDFF7;
+	font-size: 23px;
+	font-family: palatino;
+}
+body {
+  font-size: 20px;
+	line-height: 1.8;
+	letter-spacing: 1px;
+}
+body {
+  color: rgb(10, 10, 10);     /* Text color */
+	background-color: #343a40;  /* Background color */
+}
+
+div {
+	margin: 0 auto;
+	text-align: center;
+	border-radius: 10%;
+}
+.card-center{
+	width: 880px;
+	background-color: #BEDFF7;
+	border-radius: 70px;
+	text-align: left;
+	margin: 0 auto;
+	box-shadow: 15px 15px 15px white;
+	padding: 10px
+
+}
+.card-center2{
+	width: 880px;
+	background-color: #BEDFF7;
+	border-radius: 70px;
+	text-align: center;
+	margin: 0 auto;
+	box-shadow: 15px 15px 15px white
+
+}
+h6 {
+  color: #BEDFF7;
+	font-size: 23px;
+	font-family: palatino;
+}
+ul {
+  color: black;
+	font-size: 16px;
+	font-family: copperlate;
+	list-style: none;
+}
+
+
+
+
+.fa-brands {
+	font-size: 100px;
+	color: #BEDFF7;
+}
+
+
+
+
+
+
+
+
+
+
+
